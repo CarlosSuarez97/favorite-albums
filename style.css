@@ -1,0 +1,44 @@
+body {
+    background-color: #CDE8E5;
+}
+
+#title {
+    background-color: #7AB2B2;
+    width: auto;
+    height: auto;
+    padding: auto;
+    margin: 0%;
+    align-items: center;
+    border: 5px dashed black;
+    margin-bottom: 10px;
+}
+
+.headline {
+    color: #EEF7FF;
+    font-family: "Poetsen One", sans-serif;
+    text-transform: capitalize;
+    font-weight: 400;
+    text-align: center;
+}
+
+.album-cover {
+    height: 250px;
+    width: 250px;
+    margin: 5px;
+}
+
+.album-info {
+    padding: 5px;
+    border: 5px dashed black;
+    background-color: #4D869C;
+    color: #EEF7FF;
+    font-family: "Poetsen One", sans-serif;
+    font-weight: 100;
+    display: flex;
+    align-items: stretch;
+    margin-bottom: 5px;
+}
+
+.info-columns {
+    margin: 5px;
+}
